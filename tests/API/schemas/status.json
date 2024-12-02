@@ -1,0 +1,14 @@
+{
+    "type": "object",
+    "properties": {
+      "additionalProp1": {
+        "type": "integer"
+      },
+      "additionalProp2": {
+        "type": "integer"
+      },
+      "additionalProp3": {
+        "type": "integer"
+      }
+    }
+  }
