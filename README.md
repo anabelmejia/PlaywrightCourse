@@ -1,4 +1,4 @@
 # PlaywrightCourse
 Playwright course:
 API: npm run testSchema
-UI: npm run testHomeUI
+UI: npm run testHomeU
